@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 .fa{
-  display: inline-block;
+  display: inline;
   /*float: right;*/
   /*margin-left: 1.14285714em;*/
 }
@@ -443,12 +443,12 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #route {
   width: 100%;
-  height: calc(100vh - 70px);
+  /* height: calc(100vh - 70px); */
   background: url("../img/pmt4.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
-  padding: 0;
+  padding: 40px;
 }
 
 #route:before {
@@ -575,7 +575,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992px) {
   #route {
     margin-top: 60px;
-    height: calc(100vh - 60px);
+    /* height: calc(100vh - 60px); */
   }
 }
 
