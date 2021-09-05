@@ -4,29 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-function myFunction() {
-  var x = document.getElementById("tab1");
-  var a = document.getElementById("tab2");
-  if (x.style.display === "none") {
-    x.style.display = "";
-    a.style.display = "none";
-  } else {
-    a.style.display = "none";
-  }
-}
-var x = document.getElementById("tab2");
-x.style.display = "none"; 
-function myFunctions() {
-  var x = document.getElementById("tab2");
-  var a = document.getElementById("tab1");
-  
-  if (x.style.display === "none") {
-    x.style.display = "";
-    a.style.display = "none";
-  } else {
-    a.style.display = "none";
-  }
-}
+
 (function() {
   "use strict";
 

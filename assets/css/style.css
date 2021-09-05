@@ -8,6 +8,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.x-accordion-heading .x-accordion-toggle.collapsed {
+         background-color: transparent;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -1002,7 +1005,7 @@ section {
   right: 30px;
   top: 30px;
   bottom: 30px;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.35s;
   z-index: 2;
   opacity: 0;
 }
