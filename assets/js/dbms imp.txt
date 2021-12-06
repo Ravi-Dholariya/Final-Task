@@ -1,0 +1,18 @@
+most imp :-
+Q.1 Define Primary key, Candidate key and Super key. (3)
+Q.2 explain categories of database users. (3)
+Q.3 Differentiate generalization and specialization with example.(4/7)
+Q.4 What is DBMS? List and explain the advantages of DBMS.
+Q.5 Explain the disadvantages of conventional file based system compared to 
+	database management system
+Q.6 Explain the difference between a weak and a strong entity set. (3)
+Q.7 Discuss the role of database administrator (DBA).
+
+IMP:-
+Q.8 List and explain different aggregate functions with example.
+Q.9 explain three level architecture of DBMS.
+
+--> Sav thi chlee karvanu pan 100% puchasej (koi di full mark nai apee!!)
+
+Q.1 E-R diagram of Hospital Management System.
+Q.2 E-R diagram of Bank Management System
